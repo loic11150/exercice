@@ -19,7 +19,7 @@ while index <= 90:
 ## genère mot random
 randWord = random.randint(0,len(lines))    
 word = lines[randWord] 
-print(word)
+#print(word)
 
 
 lives = 6
